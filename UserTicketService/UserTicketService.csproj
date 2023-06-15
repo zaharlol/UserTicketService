@@ -46,6 +46,7 @@
     <Compile Include="BookRepository.cs" />
     <Compile Include="Calculator.cs" />
     <Compile Include="Calculator1.cs" />
+    <Compile Include="FileWorker.cs" />
     <Compile Include="Ticket.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
